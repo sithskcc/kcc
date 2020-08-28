@@ -61,6 +61,12 @@ header li{
   position: relative
 }
 
+@media screen and (max-width: 800px){
+  .logo img{
+    width:100%
+  }
+}
+
 .current{
   font-weight: bold;
   color: #dfe294
