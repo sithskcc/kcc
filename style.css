@@ -53,7 +53,6 @@ header li{
 
 .logo img{
   padding-top: 10px;
-  width: 25%;
   float: left
 }
 
@@ -61,6 +60,7 @@ header li{
   position: relative
 }
 
+/*
 @media screen and (max-width: 800px){
   .logo img{
     width:100%
@@ -76,6 +76,7 @@ header li{
     position: relative;
     display: inline-block
   }
+*/
 
 .current{
   font-weight: bold;
