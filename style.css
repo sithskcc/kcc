@@ -106,13 +106,13 @@ h2{
   text-align: center
 }
 
-/* Gallery */
-
-.line{
-  border-bottom: #102 6px solid;
-  margin-left: 200px;
-  margin-right: 200px
+@media screen and (max-width: 800px){
+  h2{
+    font-size: 30px;
+  }
 }
+
+/* Gallery */
 
 .gallery{
   display: grid;
